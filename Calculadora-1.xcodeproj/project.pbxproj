@@ -13,7 +13,6 @@
 		C4BEA48728623B8900F33AB4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4BEA48528623B8900F33AB4 /* Main.storyboard */; };
 		C4BEA48928623B8C00F33AB4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4BEA48828623B8C00F33AB4 /* Assets.xcassets */; };
 		C4BEA48C28623B8C00F33AB4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4BEA48A28623B8C00F33AB4 /* LaunchScreen.storyboard */; };
-		C4BEA49628624A7400F33AB4 /* DisplayOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BEA49528624A7400F33AB4 /* DisplayOperation.swift */; };
 		C4BEA4982862549000F33AB4 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BEA4972862549000F33AB4 /* Buttons.swift */; };
 		C4BEA49C2862943B00F33AB4 /* ContainerOfButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BEA49B2862943B00F33AB4 /* ContainerOfButtons.swift */; };
 		C4BEA49E2862954200F33AB4 /* RowOfButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BEA49D2862954200F33AB4 /* RowOfButton.swift */; };
@@ -30,7 +29,6 @@
 		C4BEA48828623B8C00F33AB4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C4BEA48B28623B8C00F33AB4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C4BEA48D28623B8C00F33AB4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C4BEA49528624A7400F33AB4 /* DisplayOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayOperation.swift; sourceTree = "<group>"; };
 		C4BEA4972862549000F33AB4 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 		C4BEA49B2862943B00F33AB4 /* ContainerOfButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerOfButtons.swift; sourceTree = "<group>"; };
 		C4BEA49D2862954200F33AB4 /* RowOfButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RowOfButton.swift; sourceTree = "<group>"; };
@@ -72,7 +70,6 @@
 				C4BEA48128623B8900F33AB4 /* SceneDelegate.swift */,
 				C4BEA48328623B8900F33AB4 /* ViewController.swift */,
 				C4BEA4A12863B31700F33AB4 /* stackViewDisplayOperation.swift */,
-				C4BEA49528624A7400F33AB4 /* DisplayOperation.swift */,
 				C4BEA49B2862943B00F33AB4 /* ContainerOfButtons.swift */,
 				C4BEA49F2863B00100F33AB4 /* FieldOfOperationLabel.swift */,
 				C4BEA49D2862954200F33AB4 /* RowOfButton.swift */,
@@ -163,7 +160,6 @@
 				C4BEA4A02863B00100F33AB4 /* FieldOfOperationLabel.swift in Sources */,
 				C4BEA48428623B8900F33AB4 /* ViewController.swift in Sources */,
 				C4BEA48028623B8900F33AB4 /* AppDelegate.swift in Sources */,
-				C4BEA49628624A7400F33AB4 /* DisplayOperation.swift in Sources */,
 				C4BEA4982862549000F33AB4 /* Buttons.swift in Sources */,
 				C4BEA4A22863B31700F33AB4 /* stackViewDisplayOperation.swift in Sources */,
 				C4BEA48228623B8900F33AB4 /* SceneDelegate.swift in Sources */,
